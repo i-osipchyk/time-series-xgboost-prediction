@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+matplotlib
+keras
+scikit-learn
+plotly
+tensorflow
+chart-studio
+xgboost
+nbconvert
